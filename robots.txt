@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iousions.github.io/sitemap.html.gz
+Sitemap: https://iousions.github.io/app/sitemap.html.gz
+Sitemap: https://iousions.github.io/assets/sitemap.html.gz
+Sitemap: https://iousions.github.io/css/sitemap.html.gz
+Sitemap: https://iousions.github.io/includes/sitemap.html.gz
+Sitemap: https://iousions.github.io/item/sitemap.html.gz
+Sitemap: https://iousions.github.io/src/sitemap.html.gz
